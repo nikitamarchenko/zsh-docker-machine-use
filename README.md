@@ -8,6 +8,6 @@ Based on https://github.com/zsh-users/zsh-completions/blob/master/src/_docker-ma
 
 Installation 
 
-git clone https://github.com/nikitamarchenko/zsh-completions ~/.oh-my-zsh/custom/plugins/docker-machine-use
+`git clone https://github.com/nikitamarchenko/zsh-completions ~/.oh-my-zsh/custom/plugins/docker-machine-use`
 
 And add docker-machine-use to plugins in .zshrc file.
