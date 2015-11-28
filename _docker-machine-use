@@ -1,3 +1,4 @@
+#compdef docker-machine-use
 # helper function for completing available machines
 __machines() {
   declare -a machines_cmd
